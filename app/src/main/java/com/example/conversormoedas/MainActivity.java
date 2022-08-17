@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         this.mViewHolder.textEuro = findViewById(R.id.text_euro);
         this.mViewHolder.buttonCalcular = findViewById(R.id.buttonCalcular);
         this.mViewHolder.buttonCalcular.setOnClickListener((View.OnClickListener) this);
-
+//gg
         EditText valor = findViewById(R.id.edit_valor);
         valor.getText();
     }
